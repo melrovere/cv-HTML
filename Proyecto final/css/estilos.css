@@ -1,0 +1,54 @@
+h1 {
+    font-family: 'Fira Sans', sans-serif;
+    border: 1px solid slateblue;
+    background-color: pink;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px 15px 25px 20px;
+    text-align: center;
+    font-weight: bold;
+    color: slateblue;
+}
+
+#parrafo_objetivo {
+    font-family: 'Fira Sans', sans-serif;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: left;
+    border: 3px dotted slateblue;
+    background-color: lavender;
+}
+
+.secciones{
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: bold;
+    color:rgb(127, 10, 236);
+    background-color: pink;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 1px;
+    margin-right: 900px;
+    text-align: center;
+}
+
+.datos {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: bold;
+    color: slategray;
+    text-align: left;
+}
+
+
+.nav-enlace{
+    display: inline-block;
+    background-color: blue;
+    color: #FFFF;
+    padding: 10px 30px;
+    text-decoration: none
+}
+.nav-enlace:hover{
+    background: aqua;
+}
